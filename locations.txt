@@ -1,0 +1,6 @@
+0,You are waking up in a strange dark place. There are door and you can see light in key hole
+1,You are inside the tunnel
+2,You are inside the mine
+3,You are inside the cave
+4,You are inside the lair with some kind of monster watching in the dark
+5,You are on the fresh air inside a forest
